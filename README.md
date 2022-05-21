@@ -1,4 +1,14 @@
-# Remote Switch
+---
+title: Remote Switch
+
+---
+
+<head>
+  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:title" content="Remote Switch" />
+  <meta property="twitter:image" content="https://pa1tech.github.io/remoteSwitch/assets/gg.png" />
+  <meta property="twitter:site" content="https://pa1tech.github.io/" /> 
+</head>
 
 ### Intro
 Web controlled switch for home appliances using ESP8266
