@@ -17,10 +17,10 @@ ESP8266 is the perfect choice for this use case. It has a few GPIO's and is WiFi
 https://github.com/pa1tech/remoteSwitch/
 
 ### Media
-<img src="https://pa1tech.github.io/remoteSwitch/assets/cir1.jpg" width="100px"/>
-<img src="https://pa1tech.github.io/remoteSwitch/assets/cir2.jpg" width="100px"/>
+<img src="https://pa1tech.github.io/remoteSwitch/assets/cir1.jpg" width="400px"/>
+<img src="https://pa1tech.github.io/remoteSwitch/assets/cir2.jpg" width="200px"/>
 
-### Demo Video
+### [Demo Video](https://pa1tech.github.io/remoteSwitch/assets/demo.mp4)
 <video controls>
   <source src="https://pa1tech.github.io/remoteSwitch/assets/demo.mp4" type="video/mp4">
 </video>
