@@ -18,8 +18,8 @@ Most of the smart appliances focus more on controlling them on a local network i
 ESP8266 is the perfect choice for this use case. It has a few GPIO's and is WiFi compatible
 
 ### Structure
-* A website is hosted on Heroku with the required controls - <a>https://tiitc22-pa1tech.herokuapp.com/</a>
-* ESP8266 fetches a different subpage where the controls are put as text with minimal metadata - <a>https://tiitc22-pa1tech.herokuapp.com/esp</a>
+* A website is hosted on Heroku with the required controls - [https://tiitc22-pa1tech.herokuapp.com/](https://tiitc22-pa1tech.herokuapp.com/)
+* ESP8266 fetches a different subpage where the controls are put as text with minimal metadata - [https://tiitc22-pa1tech.herokuapp.com/esp](https://tiitc22-pa1tech.herokuapp.com/esp)
 * On the ESP8266 side, 230V AC is to be converted to 5V,3.3V for powering relay and the ESP8266. A simple capacitive dropper should be sufficient (Currently used a seperate 5V adapter)
 * ESP8266 drives an optocoupler(PC817), which inturn drives an NPN transitor(BC548) to power up the relay coil
 
