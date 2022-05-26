@@ -34,3 +34,8 @@ ESP8266 is the perfect choice for this use case. It has a few GPIO's and is WiFi
 <video controls>
   <source src="https://pa1tech.github.io/remoteSwitch/assets/demo.mp4" type="video/mp4">
 </video>
+
+
+***
+
+## [HOME - pa1tech.github.io](https://pa1tech.github.io/)
