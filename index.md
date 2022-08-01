@@ -29,6 +29,7 @@ ESP8266 is the perfect choice for this use case. It has a few GPIO's and is WiFi
 * [Flask based server](https://github.com/pa1tech/remoteSwitch/tree/main/herokuServer)
 * [PHP based server](https://github.com/pa1tech/remoteSwitch/tree/main/phpServer)
 * [ESP8266 Client Code](https://github.com/pa1tech/remoteSwitch/tree/main/espClient)
+* [ESP8266 Client Code with Wifi Credential Interface](https://github.com/pa1tech/remoteSwitch/tree/main/espWifiCred)
 
 ### Media
 <img src="https://pa1tech.github.io/remoteSwitch/assets/cir1.jpg" width="400px"/>
