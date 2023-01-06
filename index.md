@@ -18,7 +18,7 @@ Most of the smart appliances focus more on controlling them on a local network i
 ESP8266 is the perfect choice for this use case. It has a few GPIO's and is WiFi compatible
 
 ### Structure
-* A website is hosted on Heroku with the required controls - [https://tiitc22-pa1tech.herokuapp.com/](https://tiitc22-pa1tech.herokuapp.com/)
+* A website is hosted with the required controls 
 * PHP implementaion on [https://homenet2683.000webhostapp.com/index.php](https://homenet2683.000webhostapp.com/index.php). Extended to be controlled from a Telegram Bot - [https://telegram.me/incred_rswBot](https://telegram.me/incred_rswBot)
 * ESP8266 fetches a different subpage where the controls are put as text with minimal metadata - [https://vercel-remote-switch.vercel.app/esp](https://vercel-remote-switch.vercel.app/esp) or [https://homenet2683.000webhostapp.com/esp.php](https://homenet2683.000webhostapp.com/esp.php)
 * It fetches the controls every 10s and the latest ping time is displayed om the main site, to know if things are going good on the ESP side
