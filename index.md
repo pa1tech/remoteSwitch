@@ -1,6 +1,8 @@
 ---
 title: Remote Switch
 
+image:
+  path: https://pa1tech.github.io/remoteSwitch/assets/gg.png
 ---
 
 <head>
